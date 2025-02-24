@@ -1,6 +1,6 @@
 # hotel
 
-- [Demo Project](Mohananoruztabar.github.io/hotel/index1-css.html)
+- [Demo Project]
 
 -🙋🏽‍♀️ Developed by Mohana Noruztabar
 
