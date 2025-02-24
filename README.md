@@ -6,7 +6,7 @@
 
 -📅 Created - 2025-2-24
 
-- ⚙Technologies Used - Html , css 
+-⚙ Technologies Used - Html , css 
 
 -👩🏽‍💻 Role - Frontend
 
